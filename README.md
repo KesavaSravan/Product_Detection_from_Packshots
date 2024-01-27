@@ -16,4 +16,4 @@ Steps included :
 9. Integration with CNN Model for Product Detection
 10. Use similarity between products to match product in shelf image.
 11. Writing in the soluction_1.txt file - For every product image, find the location of that product in all shelf images in which it appears.
-12. Writing in the soluction_1.txt file - For every shelf image, locate all products and assign the name from given set of product images.
+12. Writing in the soluction_2.txt file - For every shelf image, locate all products and assign the name from given set of product images.
